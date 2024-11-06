@@ -22,3 +22,6 @@ my_sum_tuple = my_tuple + my_other_tuple
 print(my_sum_tuple)
 
 print(my_sum_tuple[3:6])
+
+del my_tuple #con esto se pueden eliminar las tuplas, y ya no existirían.
+
