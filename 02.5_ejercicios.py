@@ -14,4 +14,4 @@ horas = minutos_totales // 60
 minutos_restantes = minutos_totales % 60
 
 # Mostrar el resultado
-print(f"{horas} horas y {minutos_restantes} minutos")580
+print(f"{horas} horas y {minutos_restantes} minutos")
