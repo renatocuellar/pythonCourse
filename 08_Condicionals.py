@@ -16,4 +16,4 @@ else:
     print("Es menor o igual a 10 o mayor o igual a 20")
 
 
-print("la ejecución continúa")
+print("la ejecución continúa")  
